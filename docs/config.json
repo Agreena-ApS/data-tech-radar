@@ -194,6 +194,14 @@
     {
       "quadrant": 3, 
       "ring": 2,
+      "label": "pg_lakehouse",
+      "link": "https://www.notion.so/agreena/Postgres-pg_lakehouse-986011c2441e46adaee07a8e00882b72",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3, 
+      "ring": 2,
       "label": "GeoParquet",
       "active": true,
       "moved": 0
@@ -318,6 +326,14 @@
       "ring": 0,
       "label": "GLAD - Deforestation",
       "link": "https://www.notion.so/agreena/Deforestation-Detection-c9e1be9441a143e0868f6e98317faa88",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2, 
+      "ring": 0,
+      "label": "NASA POWER Project",
+      "link": "https://www.notion.so/agreena/NASA-POWER-Project-f1a83fe5ec604baab3d8348261cac017",
       "active": true,
       "moved": 0
     },
