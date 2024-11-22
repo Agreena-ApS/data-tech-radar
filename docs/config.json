@@ -86,7 +86,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 3,
       "label": "VertexAI Batch predict",
       "link": "https://www.notion.so/agreena/VertexAI-Batch-predict-8f035cf1fb0a43279f6a918ea1b43226?pvs=4",
@@ -94,7 +94,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 1,
       "label": "VertexAI model registry",
       "link": "https://www.notion.so/agreena/VertexAI-model-registry-b32df5b61d3a49209a5cc5485c364156",
@@ -102,7 +102,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 3,
       "label": "Google Cloud Infrastructure",
       "link": "https://www.notion.so/agreena/GCP-Cloud-5ac8f49dac6447c0ad5f954143e72a97?pvs=4",
@@ -110,28 +110,28 @@
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 0,
       "label": "Google Cloud Composer",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 0,
       "label": "GCP API Gateway",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 2,
       "label": "Anyscale",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1, 
+      "quadrant": 1,
       "ring": 3,
       "label": "Weights & Biases",
       "link": "https://www.notion.so/agreena/Weights-Biases-b82a29972a5642fbb6f8d8a821d78651?pvs=4",
@@ -139,7 +139,7 @@
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
       "ring": 2,
       "label": "Ray",
       "link": "https://www.notion.so/agreena/Ray-f87f87267fed4e7b9fd871a8984b76f9?pvs=4",
@@ -147,7 +147,7 @@
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
       "ring": 2,
       "label": "MLFlow",
       "link": "https://www.notion.so/agreena/MLFlow-f87b2441e7c3494f9b3dba7508700020",
@@ -155,7 +155,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 1,
       "label": "VertexAI Workbench",
       "link": "https://www.notion.so/agreena/VertexAI-Workbench-38dd0b231140476a81bee9273cc122bd?pvs=4",
@@ -163,7 +163,7 @@
       "moved": 0
     },
     {
-      "quadrant": 1, 
+      "quadrant": 1,
       "ring": 0,
       "label": "CircleCI",
       "link": "https://www.notion.so/agreena/CircleCI-65c1641c143c4937b8cd95b546a11e2b?pvs=4",
@@ -171,28 +171,28 @@
       "moved": 0
     },
     {
-      "quadrant": 1, 
+      "quadrant": 1,
       "ring": 0,
       "label": "Sentry",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
       "ring": 0,
       "label": "FastAPI",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
       "ring": 0,
       "label": "PostGIS",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
       "ring": 2,
       "label": "pg_lakehouse",
       "link": "https://www.notion.so/agreena/Postgres-pg_lakehouse-986011c2441e46adaee07a8e00882b72",
@@ -200,49 +200,63 @@
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
       "ring": 2,
       "label": "GeoParquet",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3, 
-      "ring": 2,
+      "quadrant": 3,
+      "ring": 0,
       "label": "DuckDB",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
+      "ring": 0,
+      "label": "dbt",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "uv",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
       "ring": 1,
       "label": "Apache Beam/DataFlow",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
       "ring": 0,
       "label": "Airflow",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3, 
+      "quadrant": 3,
       "ring": 2,
       "label": "Prefect",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 1, 
+      "quadrant": 1,
       "ring": 2,
       "label": "Honeycomb",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 0,
       "label": "VertexAI Online predict",
       "link": "https://www.notion.so/agreena/VertexAI-Online-predict-aa013a7e612147dfa39e48d0a2fe7e77?pvs=4",
@@ -250,7 +264,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 1,
       "label": "VertexAI Training",
       "link": "https://www.notion.so/agreena/VertexAI-Training-4caf4ee7253549949cf33a8e267f31e5?pvs=4",
@@ -258,7 +272,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 0,
       "label": "STAC (Internal)",
       "link": "https://www.notion.so/agreena/STAC-SpatioTemporal-Asset-Catalogs-7281b576c1ca4b3d91e090d48368ef1a?pvs=4",
@@ -266,7 +280,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 0,
       "label": "OpenStreetMap",
       "link": "https://www.notion.so/agreena/OpenStreetMap-fe3fcc9756e3439fb58e6ae8c90fd27f",
@@ -274,7 +288,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 3,
       "label": "ISRIC SoilGRIDS API",
       "link": "https://www.notion.so/agreena/ISRIC-SoilGRIDS-API-d3be706ad84642adb55e0c61aecdcc71",
@@ -282,7 +296,7 @@
       "moved": 0
     },
     {
-      "quadrant": 0, 
+      "quadrant": 0,
       "ring": 1,
       "label": "VertexAI Pipeline",
       "link": "https://www.notion.so/agreena/Vertex-AI-Pipelines-352145a1097f48a39dd828d6c8f22ea3?pvs=4",
@@ -290,7 +304,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 1,
       "label": "Microsoft Planetary Computer API",
       "link": "https://www.notion.so/agreena/Microsoft-Planetary-Computer-1b2b7e5eb53f43bf9df7dba1d12e47da",
@@ -298,7 +312,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 2,
       "label": "NASA LPDAAC - HLS",
       "link": "https://www.notion.so/agreena/NASA-Harmonized-Landsat-Sentinel-Access-0e4e18f6f076420b85bdb6a6b9d1ed1a",
@@ -306,7 +320,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 0,
       "label": "Element 84 API",
       "link": "https://element84.com/geospatial/introducing-earth-search-v1-new-datasets-now-available/",
@@ -314,7 +328,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 1,
       "label": "GLAD - For NEM",
       "link": "https://www.notion.so/agreena/Land-Cover-Native-Ecosystem-Model-f30282abf6394b2ea3f75b4d6e9b3dd0",
@@ -322,7 +336,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 0,
       "label": "GLAD - Deforestation",
       "link": "https://www.notion.so/agreena/Deforestation-Detection-c9e1be9441a143e0868f6e98317faa88",
@@ -330,7 +344,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 0,
       "label": "NASA POWER Project",
       "link": "https://www.notion.so/agreena/NASA-POWER-Project-f1a83fe5ec604baab3d8348261cac017",
@@ -338,7 +352,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 3,
       "label": "Google Earth Engine",
       "link": "https://www.notion.so/agreena/Integration-of-GEE-cloud-masking-For-data-set-inference-Description-bfde8a9dcfea488eb0f8e45a96f1c941#2f23ab96f59f42ec9b517d9d83e0aaf8",
@@ -346,7 +360,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 3,
       "label": "ASF API",
       "link": "https://www.notion.so/agreena/ASF-Sentinel-1-RTC-81adb467966042ad91176a372f3f5dd7",
@@ -354,7 +368,7 @@
       "moved": 0
     },
     {
-      "quadrant": 1, 
+      "quadrant": 1,
       "ring": 3,
       "label": "ESA SNAP",
       "link": "https://www.notion.so/agreena/Sentinel-1-SNAP-Processing-623ebc6b75524ea788cebdf461896cc5",
@@ -418,7 +432,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 0,
       "label": "EuroCrops",
       "link": "https://github.com/maja601/EuroCrops",
@@ -426,7 +440,7 @@
       "moved": 0
     },
     {
-      "quadrant": 2, 
+      "quadrant": 2,
       "ring": 0,
       "label": "EU crops GT dataset (internal)",
       "link": "https://www.notion.so/agreena/New-EU-open-source-crops-datasets-7962bf211eaa4a3f852b2d0e854bd856",
