@@ -1,37 +1,362 @@
 {
-  "date": "2024.07",
+  "date": "2025.05",
   "entries": [
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 0,
-      "label": "Python",
+      "label": "Anyscale",
+      "link": "https://www.anyscale.com",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Terraform",
+      "quadrant": 0,
+      "ring": 2,
+      "label": "AWS Event Bridge",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Jupyter Notebook",
+      "quadrant": 0,
+      "ring": 1,
+      "label": "AWS MWAA - Airflow",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 0,
-      "label": "VS Code",
+      "label": "AWS Step Functions",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "EKS - Kubernetes",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "GCP API Gateway",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "GCP Cloud Composer",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "CGP Cloud Computing VMs",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "GCP Cloud Run",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "GCP DataFlow",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "GCS Buckets",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 1,
+      "label": "Lightning",
+      "link": "https://lightning.ai/docs/overview/getting-started",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "S3 Buckets",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Sentry",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "VertexAI Batch Predict",
+      "link": "https://www.notion.so/agreena/VertexAI-Batch-predict-8f035cf1fb0a43279f6a918ea1b43226?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "VertexAI Model Registry",
+      "link": "https://www.notion.so/agreena/VertexAI-model-registry-b32df5b61d3a49209a5cc5485c364156",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "VertexAI Online predict",
+      "link": "https://www.notion.so/agreena/VertexAI-Online-predict-aa013a7e612147dfa39e48d0a2fe7e77?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "VertexAI Pipeline",
+      "link": "https://www.notion.so/agreena/Vertex-AI-Pipelines-352145a1097f48a39dd828d6c8f22ea3?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "VertexAI Training",
+      "link": "https://www.notion.so/agreena/VertexAI-Training-4caf4ee7253549949cf33a8e267f31e5?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "VertexAI Workbench",
+      "link": "https://www.notion.so/agreena/VertexAI-Workbench-38dd0b231140476a81bee9273cc122bd?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Weights & Biases",
+      "link": "https://www.notion.so/agreena/Weights-Biases-b82a29972a5642fbb6f8d8a821d78651?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "CircleCI",
+      "link": "https://www.notion.so/agreena/CircleCI-65c1641c143c4937b8cd95b546a11e2b?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "GeoPandas",
+      "link": "https://geopandas.org/en/stable/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "GitHub Actions",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Jupyter Notebooks",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Just",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Makefile",
+      "link": "https://www.notion.so/agreena/Makefile-bash-scripting-7ed8bdae777a4c6b81d6e1112a2ae05f?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "pip-tools",
+      "link": "https://www.notion.so/agreena/pip-tools-2b5647b014c142fa87fd8a46065d2f2e?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "Poetry",
+      "link": "https://www.notion.so/agreena/poetry-7b904f0180314b1ba6f252a9320d0659?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "pre-commit",
+      "link": "https://www.notion.so/agreena/pip-tools-2b5647b014c142fa87fd8a46065d2f2e?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "uv",
+      "active": true,
+      "moved": 0
+    },
+
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "dbt",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "DuckDB",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "FlatGeobuf",
+      "link": "https://flatgeobuf.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Iceberg",
+      "link": "https://www.notion.so/agreena/Data-Lake-15f79c3a137c808f980df5cbdee62c6e",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "Martin",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "pg_lakehouse",
+      "link": "https://www.notion.so/agreena/Postgres-pg_lakehouse-986011c2441e46adaee07a8e00882b72",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "PgSTAC",
+      "link": "https://www.notion.so/agreena/Database-15f79c3a137c80f5a939d063ab1226f0",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "pmtiles",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "PostGIS",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "PostgreSQL",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 3,
+      "label": "Prefect",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "TiTiler",
+      "link": "https://www.notion.so/agreena/Raster-Tiles-API-aka-Tiling-API-17a79c3a137c80868ec0e0bffdfb2f0c?pvs=25",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "GeoParquet",
+      "active": true,
+      "moved": 0
+    },
+
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "FastAPI",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "GDAL",
+      "link": "https://gdal.org/en/latest/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Horovod",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
       "label": "Kedro",
       "link": "https://www.notion.so/agreena/Kedro-model-development-standard-b7dc332bd39e4067bd5c7d59d7add9f0",
       "active": true,
@@ -40,24 +365,7 @@
     {
       "quadrant": 3,
       "ring": 1,
-      "label": "pip-tools",
-      "link": "https://www.notion.so/agreena/pip-tools-2b5647b014c142fa87fd8a46065d2f2e?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "pre-commit",
-      "link": "https://www.notion.so/agreena/pip-tools-2b5647b014c142fa87fd8a46065d2f2e?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 3,
-      "label": "poetry",
-      "link": "https://www.notion.so/agreena/poetry-7b904f0180314b1ba6f252a9320d0659?pvs=4",
+      "label": "Locust",
       "active": true,
       "moved": 0
     },
@@ -72,330 +380,21 @@
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "Tensorflow",
-      "link": "https://www.notion.so/agreena/Tensorflow-c70ccdacd2504e999dccea4f030ee6ba?pvs=4",
+      "label": "OpenAPI (Swagger)",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "Makefile + bash scripting",
-      "link": "https://www.notion.so/agreena/Makefile-bash-scripting-7ed8bdae777a4c6b81d6e1112a2ae05f?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "VertexAI Batch predict",
-      "link": "https://www.notion.so/agreena/VertexAI-Batch-predict-8f035cf1fb0a43279f6a918ea1b43226?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 1,
-      "label": "VertexAI model registry",
-      "link": "https://www.notion.so/agreena/VertexAI-model-registry-b32df5b61d3a49209a5cc5485c364156",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Google Cloud Infrastructure",
-      "link": "https://www.notion.so/agreena/GCP-Cloud-5ac8f49dac6447c0ad5f954143e72a97?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Google Cloud Composer",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "GCP API Gateway",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 2,
-      "label": "Anyscale",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "Weights & Biases",
-      "link": "https://www.notion.so/agreena/Weights-Biases-b82a29972a5642fbb6f8d8a821d78651?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "Ray",
-      "link": "https://www.notion.so/agreena/Ray-f87f87267fed4e7b9fd871a8984b76f9?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "MLFlow",
-      "link": "https://www.notion.so/agreena/MLFlow-f87b2441e7c3494f9b3dba7508700020",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 1,
-      "label": "VertexAI Workbench",
-      "link": "https://www.notion.so/agreena/VertexAI-Workbench-38dd0b231140476a81bee9273cc122bd?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "CircleCI",
-      "link": "https://www.notion.so/agreena/CircleCI-65c1641c143c4937b8cd95b546a11e2b?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Sentry",
+      "label": "Pytest",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "FastAPI",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "PostGIS",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "pg_lakehouse",
-      "link": "https://www.notion.so/agreena/Postgres-pg_lakehouse-986011c2441e46adaee07a8e00882b72",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "GeoParquet",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "DuckDB",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "dbt",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "uv",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "Apache Beam/DataFlow",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Airflow",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "Prefect",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Honeycomb",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "VertexAI Online predict",
-      "link": "https://www.notion.so/agreena/VertexAI-Online-predict-aa013a7e612147dfa39e48d0a2fe7e77?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 1,
-      "label": "VertexAI Training",
-      "link": "https://www.notion.so/agreena/VertexAI-Training-4caf4ee7253549949cf33a8e267f31e5?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "STAC (Internal)",
-      "link": "https://www.notion.so/agreena/STAC-SpatioTemporal-Asset-Catalogs-7281b576c1ca4b3d91e090d48368ef1a?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "OpenStreetMap",
-      "link": "https://www.notion.so/agreena/OpenStreetMap-fe3fcc9756e3439fb58e6ae8c90fd27f",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "ISRIC SoilGRIDS API",
-      "link": "https://www.notion.so/agreena/ISRIC-SoilGRIDS-API-d3be706ad84642adb55e0c61aecdcc71",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 1,
-      "label": "VertexAI Pipeline",
-      "link": "https://www.notion.so/agreena/Vertex-AI-Pipelines-352145a1097f48a39dd828d6c8f22ea3?pvs=4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "Microsoft Planetary Computer API",
-      "link": "https://www.notion.so/agreena/Microsoft-Planetary-Computer-1b2b7e5eb53f43bf9df7dba1d12e47da",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "NASA LPDAAC - HLS",
-      "link": "https://www.notion.so/agreena/NASA-Harmonized-Landsat-Sentinel-Access-0e4e18f6f076420b85bdb6a6b9d1ed1a",
-      "active": false,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Element 84 API",
-      "link": "https://element84.com/geospatial/introducing-earth-search-v1-new-datasets-now-available/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "GLAD - For NEM",
-      "link": "https://www.notion.so/agreena/Land-Cover-Native-Ecosystem-Model-f30282abf6394b2ea3f75b4d6e9b3dd0",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "GLAD - Deforestation",
-      "link": "https://www.notion.so/agreena/Deforestation-Detection-c9e1be9441a143e0868f6e98317faa88",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "NASA POWER Project",
-      "link": "https://www.notion.so/agreena/NASA-POWER-Project-f1a83fe5ec604baab3d8348261cac017",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Google Earth Engine",
-      "link": "https://www.notion.so/agreena/Integration-of-GEE-cloud-masking-For-data-set-inference-Description-bfde8a9dcfea488eb0f8e45a96f1c941#2f23ab96f59f42ec9b517d9d83e0aaf8",
-      "active": false,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "ASF API",
-      "link": "https://www.notion.so/agreena/ASF-Sentinel-1-RTC-81adb467966042ad91176a372f3f5dd7",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "ESA SNAP",
-      "link": "https://www.notion.so/agreena/Sentinel-1-SNAP-Processing-623ebc6b75524ea788cebdf461896cc5",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 3,
-      "label": "Horovod",
-      "link": "https://www.notion.so/agreena/Horovod-32bfb45ac8d14abc9a3aaf1adf91d127",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "Lightning",
-      "link": "https://lightning.ai/docs/overview/getting-started",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "GDAL",
-      "link": "https://gdal.org/en/latest/",
+      "label": "Python",
       "active": true,
       "moved": 0
     },
@@ -409,17 +408,39 @@
     },
     {
       "quadrant": 3,
-      "ring": 2,
-      "label": "FlatGeobuf",
-      "link": "https://flatgeobuf.org/",
+      "ring": 0,
+      "label": "R",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "GeoPandas",
-      "link": "https://geopandas.org/en/stable/",
+      "label": "Ray",
+      "link": "https://www.notion.so/agreena/Ray-f87f87267fed4e7b9fd871a8984b76f9?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Tensorflow",
+      "link": "https://www.notion.so/agreena/Tensorflow-c70ccdacd2504e999dccea4f030ee6ba?pvs=4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Terraform",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "MLFlow",
+      "link": "https://www.notion.so/agreena/MLFlow-f87b2441e7c3494f9b3dba7508700020",
       "active": true,
       "moved": 0
     },
@@ -430,23 +451,6 @@
       "link": "https://docs.xarray.dev/en/stable/",
       "active": true,
       "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "EuroCrops",
-      "link": "https://github.com/maja601/EuroCrops",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "EU crops GT dataset (internal)",
-      "link": "https://www.notion.so/agreena/New-EU-open-source-crops-datasets-7962bf211eaa4a3f852b2d0e854bd856",
-      "active": true,
-      "moved": 0
     }
-
   ]
 }
