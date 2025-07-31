@@ -34,10 +34,10 @@ fetch('./config.json').then(function(response) {
     title: "Agreena Data Tech Radar",
     date: data.date,
     quadrants: [
-      { name: "Managed Services" },
-      { name: "3rd party systems" },
-      { name: "Datastores" },
-      { name: "Data and ML Frameworks" },
+      { name: "Infrastructure" },            // quadrant 0
+      { name: "Tooling" },                   // quadrant 1
+      { name: "Data storage and access" },   // quadrant 2
+      { name: "Languages and Frameworks" },  // quadrant 3
     ],
     rings: [
       { name: "ADOPT", color: "#5ba300" },
