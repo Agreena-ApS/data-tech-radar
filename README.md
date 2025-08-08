@@ -1,9 +1,10 @@
 # Motivation
 
-At [Zalando](http://zalando.de), we maintain a [public Tech
-Radar](http://zalando.github.io/tech-radar/) to help our engineering teams
-align on technology choices. It is based on the [pioneering work
-by ThoughtWorks](https://www.thoughtworks.com/radar).
+At [Agreena's](https://agreena.com) Data Team, we maintain a [public Tech 
+Radar](https://agreena-aps.github.io/data-tech-radar) to help our engineering teams align on 
+technology choices. Agreena's Data Tech Radar is a copy of the popular [Zalando's Tech 
+Radar](http://zalando.github.io/tech-radar), which in turn was based on the [pioneering work by 
+ThoughtWorks](https://www.thoughtworks.com/radar).
 
 This repository contains the code to generate the visualization:
 [`radar.js`](/docs/radar.js) (based on [d3.js v4](https://d3js.org)).
@@ -69,8 +70,8 @@ radar_visualization({
 Entries are positioned automatically so that they don't overlap. The "scale" parameter can help
 in adjusting the size of the radar.
 
-As a working example, you can check out `docs/index.html` &mdash; the source of our [public Tech
-Radar](http://zalando.github.io/tech-radar/).
+As a working example, you can check out `docs/index.html` &mdash; the source of our [public Tech 
+Radar](https://agreena-aps.github.io/data-tech-radar).
 
 ## Deployment
 
