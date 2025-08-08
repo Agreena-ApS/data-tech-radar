@@ -445,6 +445,14 @@
     },
     {
       "quadrant": 3,
+      "ring": 2,
+      "label": "ExactExtract",
+      "link": "https://isciences.github.io/exactextract",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
       "ring": 0,
       "label": "Xarray",
       "link": "https://docs.xarray.dev/en/stable/",
