@@ -1,5 +1,5 @@
 {
-  "date": "2025.05",
+  "date": "2025.08",
   "entries": [
     {
       "quadrant": 0,
@@ -18,7 +18,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 1,
+      "ring": 0,
       "label": "AWS MWAA - Airflow",
       "active": true,
       "moved": 0
@@ -169,14 +169,6 @@
     {
       "quadrant": 1,
       "ring": 0,
-      "label": "GeoPandas",
-      "link": "https://geopandas.org/en/stable/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
       "label": "GitHub Actions",
       "active": true,
       "moved": 0
@@ -234,7 +226,14 @@
       "active": true,
       "moved": 0
     },
-
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "GeoPandas",
+      "link": "https://geopandas.org/en/stable/",
+      "active": true,
+      "moved": 0
+    },
     {
       "quadrant": 2,
       "ring": 0,
@@ -341,7 +340,7 @@
     },
     {
       "quadrant": 3,
-      "ring": 1,
+      "ring": 0,
       "label": "GDAL",
       "link": "https://gdal.org/en/latest/",
       "active": true,
@@ -441,6 +440,14 @@
       "ring": 2,
       "label": "MLFlow",
       "link": "https://www.notion.so/agreena/MLFlow-f87b2441e7c3494f9b3dba7508700020",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "ExactExtract",
+      "link": "https://isciences.github.io/exactextract",
       "active": true,
       "moved": 0
     },
