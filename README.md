@@ -1,3 +1,9 @@
+> [!CAUTION]
+> **This tech radar has been deprecated and unpublished.**
+> **The new version is the [Data Team Technology Radar](https://github.com/Agreena-ApS/data-technology-radar),**
+> **which can be browsed online in its own [GitHub Pages space](https://agreena-aps.github.io/data-technology-radar/).**
+> **This repository is hence archived for historical records.**
+
 # Motivation
 
 At [Agreena's](https://agreena.com) Data Team, we maintain a [public Tech 
